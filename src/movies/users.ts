@@ -11,12 +11,12 @@ export const users: User[] = [
     age: 18,
   },
   {
-    id: 1,
+    id: 2,
     firstname: "Doe",
     age: 22,
   },
   {
-    id: 1,
+    id: 3,
     firstname: "Pow",
     age: 18,
   },
